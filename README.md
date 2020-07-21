@@ -134,7 +134,7 @@ They seem to have a clear advantage in comedy.  (Fig. 2.4.2)
 
 #### How should the categories be divided?
 (Fig. 2.4.1)     
-![df_heatmap](https://github.com/xinegan88/some_files/blob/master/studio_net.png)     
+![df_heatmap](https://github.com/xinegan88/the-winning-formula/blob/master/images/dist_roi_net.png)     
 
 Among all of the studios, Universal seems to have mastered a balance of high-risk/high-reward films with low-risk/low-reward films. By examining Universal's genre breakdown, it seems to indicate that approximately 35% are high-risk projects, and 60% are low-risk projects with the remaining 5% being represented by other genres. Based on this, we recommend choosing 35% high-risk projects and 65% low-risk projects.      
 (Fig. 2.4.4)     
