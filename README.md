@@ -48,7 +48,7 @@ Based on the data available in our database we engineered the following features
 * Net Profits - Based on the difference between Budget and Worldwide Gross, which serves to indicate the profits generated after accounting for expenses.
 * Return on Investment (ROI) - A ratio that compares the gain or loss from an investment relative to its cost (e.g. the amount earned relative to the amount spent)
 
-### Part 2: Part 2: Recommendations and Visualizations (Part_2_Data_Acquisition_and_Cleaning.jpynb)
+### Part 2: Recommendations and Visualizations (Part_2_Recommendation_Report__with_Visualizations.ipynb)
 Includes data analysis, visualizations, and recommendations justified by the data.
 
 #### The Strategy
